@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm ISBAINE MOHAMED</h1>
-<h3 align="center">A passionate Data Science and Web Development</h3>
+<h3 align="center">A data engineer and cloud enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isbainemohamed&label=Profile%20views&color=0e75b6&style=flat" alt="isbainemohamed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isbainemohamed" alt="isbainemohamed" /></a> </p>
 
-- 🔭 I’m currently working on [Safe Driving Project](https://github.com/isbainemohamed/SafeDriving)
+- 🔭 I’m currently working on [Prosper Loans Project](https://github.com/isbainemohamed/Prosper-Loans-website)
 
-- 🌱 I’m currently learning **NLP,Deep Learning, ETLs**
+- 🌱 I’m currently learning **ETL Pipelines and Data warehousing**
 
-- 👯 I’m looking for an internship **at Data Science**
+- 👯 I’m looking for an internship **at Data engineering**
 
 - 🤝 I’m looking for help with **sharing my resume and portfolio**
 
-- 👨‍💻 All of my projects are available at [portfolio.](portfolio.)
+- 👨‍💻 All of my projects are available at [isbainemohamed.me](isbainemohamed.me)
 
-- 💬 Ask me about **Machine Learning, Deep Learning, NLP, ASP.NET ....**
+- 💬 Ask me about **ETL, ELT, Data warehousing, Data integration, web scraping ....**
 
 - 📫 How to reach me **isbainemouhamed@gmail.com**
-
-- 📄 Know about my experiences [resume](resume)
 
 - ⚡ Fun fact **No time to have fun !**
 
